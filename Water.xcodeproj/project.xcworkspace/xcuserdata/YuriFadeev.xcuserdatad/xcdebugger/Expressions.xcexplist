@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in WaterHistory.save():WaterHistory.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "try? NSKeyedArchiver.archivedData(withRootObject: self.items, requiringSecureCoding: false) ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WaterHistory.save():WaterHistory.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HistoryViewController.setupNavigationBar():HistoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "navigationController?.navigationBar.items?.first">
+            </PersistentString>
+            <PersistentString
+               value = "navigationController?.navigationBar.items?.first?.rightBarButtonItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
